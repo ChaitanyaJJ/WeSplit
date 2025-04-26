@@ -106,5 +106,5 @@ If your bill is $100 and you want to add a 15% tip, then split it among 4 people
 
 🛠️ Technologies Used
 
-    SwiftUI (or mention the framework if different)
+    SwiftUI 
 ![image](https://github.com/user-attachments/assets/16ebb14b-8b54-4e87-aab7-7354a160bec0)
